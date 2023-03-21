@@ -1,0 +1,26 @@
+ 
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+
+}
+
+.nav-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-ul li {
+    padding: 20px;
+}
+
+.react-img {
+    width: 80px;
+}
